@@ -22,7 +22,7 @@ Changes include any type of change except for QA work or bug fixes.
 
 Who can write RFCs?
 -------------------
-Short answer: Anybody. Simply open an issue (here)[https://github.com/xp-framework/rfc/issues]
+Short answer: Anybody. Simply open an issue [here](https://github.com/xp-framework/rfc/issues)
 
 
 What does an RFC look like?
