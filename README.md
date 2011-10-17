@@ -14,15 +14,15 @@ An RFC is needed when changes are made that affect one of the following:
 
 * Core functionality (e.g., in `lang.base.php`)
 * Classes in the `lang` package or subpackages thereof
-* Wherever it affects a lot of places, e.g. xml.Node
-* When BC (backwards compatibility) is broken
+* Wherever it affects a lot of places, e.g. `xml.Node`
+* When **BC** (backwards compatibility) is broken
 
 Changes include any type of change except for QA work or bug fixes.
 
 
 Who can write RFCs?
 -------------------
-Short answer: Anybody. 
+Short answer: Anybody. Simply open an issue (here)[https://github.com/xp-framework/rfc/issues]
 
 
 What does an RFC look like?
